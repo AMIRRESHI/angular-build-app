@@ -1,7 +1,5 @@
 import { Component, signal } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
-import { MyButton } from "./lib/button/button";
-import { MyInput } from './lib/input/input';
 import { MyModule } from './lib/my.module';
 
 @Component({
